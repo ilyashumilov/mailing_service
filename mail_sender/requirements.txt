@@ -1,0 +1,26 @@
+amqp
+asgiref
+async-timeout
+billiard
+celery==4.3.0
+click
+click-didyoumean
+click-plugins
+click-repl
+kombu == 4.6.11
+Deprecated
+Django==2.1.8
+importlib-metadata==4.13.0
+numpy
+packaging
+pandas
+prompt-toolkit
+pyparsing
+python-dateutil
+redis
+six
+sqlparse
+vine
+wcwidth
+wrapt
+djangorestframework
