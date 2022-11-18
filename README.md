@@ -1,4 +1,4 @@
-<h1 align="center">Education process organization system</h1>
+<h1 align="center">Mailing system</h1>
 
 [Click “Watch” in this repository](https://help.github.com/en/github/receiving-notifications-about-activity-on-github/watching-and-unwatching-repositories) to keep track of the latest changes in the project.
 
